@@ -1,0 +1,43 @@
+
+
+
+ROTEIRO FINAL PROJECT CS0
+
+Olá, meu nome é Gustavo, eu sou brasileiro e esse é meu projeto final do cs50.
+Durante esse curso  logo no ínicio eu tive um problema de produtividade.
+Por mais que as aulas haviam apenas 2h, as vezes eu demorava um dia inteiro para fazer todos os desafios da semana e
+sempre terminava totalmente exausto mentalmente até que um amigo me apresentou uma técnica de descanso chamada POMODORO.
+Tendo em vista os aspectos observados eu fiquei muito entusiasmado e decidi que vou apresentar meu trabalho sobre isso.
+Nessa técnica você trabalha ou estuda por 25 minutos e dá uma pequena pausa de 5 minutos. O nome disso é chamado de POMODORO e a cada
+4 pomodoros você pode dar um descanso de 15 a 30 minutos.
+Usando essa técnica tive um ganho de produtividade consideravel e após fazer os desafios  eu não me sentia tão esgotado mentalmente.
+Esse desafio final se encaixou perfeitamente com o problema que eu tive durante o curso e acabou sendo fácil de me decidir o que fazer.
+Já existem alguns websites que fazem isso, mas a grande quantidade de informações que aprendi durante esse curso e a técnica de POMODORO se
+encaixam perfeitamente.
+Após muitas horas de trabalho e estudo eu fiz isso:
+> mostra website <
+Um website completo da técnica de pomodoro, no qual você pode se registrar e configurar da forma que você quiser!
+Foi utilizado html, css, javascript, python, flask e sqlite
+Todas configurações e tarefas vão para o banco de dados e junto ao seu login você pode leva-los para onde você quiser.
+Você pode minimizar o website porque quando acabar o tempo, ira tocar esse alarme e será o tempo de você descansar ou voltar ao trabalho.
+Acredito que essa ferramenta seja bastante útil, qualquer dúvida é só entrar em contato e agradeço muito por poder participar desse curso incrível!
+
+TRANSLATE
+
+Hello, my name is Gustavo, I'm Brazilian and this is my cs50 final project.
+During this course, early on I had a productivity problem.
+As much as the classes were not extensive, sometimes it took me a whole day, to do all the PROBLEM SET of the week, and I always ended up totally
+mentally exhausted,        until a friend introduced me, to a rest technique called POMODORO.
+In view of the observed aspects, I was very excited and decided that I will present my final project about it.
+In this technique you work or study for twenty-five minutes and then take a short break for five minutes.
+Every 4 pomodoros you can give yourself a break of fifyteen or thirdy minutes.
+Using this technique I had a considerable productivity gain and after doing the PROBLEM SETS I didn't feel so mentally exhausted.
+This final project dovetailed perfectly with the problem I had during the course and ended up being easy for me to decide what to do.
+There are already some websites that do this, but the large amount of information I learned during this course and the POMODORO technique are compatible.
+After many hours of work and study I did this:
+> show website <
+A complete pomodoro technique website, where you can register and configure it however you want!
+HTML, css, javascript, python, flask and sqlite were used
+All settings and tasks go into the database and with your login you can take them wherever you want.
+You can minimize the website because when time runs out, this alarm will ring and it will be time for you to rest or go back to work.
+I believe this tool is very useful, if you have any questions just contact me and, I really appreciate being able to participate in this amazing course!
